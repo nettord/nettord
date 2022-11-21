@@ -1,7 +1,7 @@
 ### Hi, my name is Neto and I'm a web developer ✌️
 
 - 🔭  Desenvolvedor Front-End
-- 📫 contate-me no email netinhoivick@gmail.com ou no meu https://www.linkedin.com/in/neto-rodriguez-91946b237/
+- 📫 Contate-me no email netinhoivick@gmail.com ou no meu https://www.linkedin.com/in/neto-rodriguez-91946b237/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
